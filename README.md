@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Amir Moussi 👋
 
-<!--
-**amirmoussi/amirmoussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Fullstack Web Developer | Freelance | Based in Rouen, France
 
-Here are some ideas to get you started:
+I build websites and web applications that help small businesses grow their online presence and attract more clients.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Back-end:** PHP, Symfony, Laravel, SQL, PostgreSQL, MariaDB
+
+**Front-end:** React, Next.js, TypeScript, JavaScript, HTML/CSS
+
+**Tools:** Git, Docker, AS/400
+
+### 💼 What I Do
+
+- Custom websites for small businesses (showcase, e-commerce)
+- Business web applications and internal tools
+- Website redesign and SEO optimization
+- Progressive Web Apps (PWA)
+
+### 🏢 Experience
+
+- **Orange** — Developing intranet portals with Symfony
+- **Groupe SETIN** — Built internal tools with Laravel connected to AS/400 databases
+- **Personal project** — Designed and developed a full PWA (React, TypeScript, PostgreSQL) for a community center to manage attendance tracking
